@@ -7,7 +7,7 @@ This is for lab practice
 
 # Advantages of using Git
 * Through R studio, we can perform the same version control that we can using GitHub but we have much more options
-* The benefits include presence of a programming IDE with code completion and other features
+* listed are some befits
 - Add files to version control
 - Commit changes
 - Push commits
